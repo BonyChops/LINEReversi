@@ -41,7 +41,7 @@ $area = [[
     ]
 ]];
 
-require_once('define.php');
+require_once('clientinfo.php');
 
 $data = [
     "size" => [

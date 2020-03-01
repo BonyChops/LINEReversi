@@ -1,5 +1,5 @@
 <?php
-require_once('define.php');
+require_once('clientinfo.php');
 $ch = curl_init('https://api.line.me/v2/bot/richmenu/list');
 curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
