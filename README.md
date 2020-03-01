@@ -1,5 +1,5 @@
 # LINEReversi
-Play reversi with LINE bot
+Play reversi with LINE bot using richmenu!
 # Setup
 1. Setup your server which has SSL connection. (https://bonychops.hatenablog.jp/entry/2019/05/18/010836)
 1. Create your application. (https://developers.line.biz/)
