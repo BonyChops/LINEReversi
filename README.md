@@ -3,7 +3,7 @@ Play reversi with LINE bot using richmenu!
 # Setup
 1. Setup your server which has SSL connection. (https://bonychops.hatenablog.jp/entry/2019/05/18/010836)
 1. Create your application. (https://developers.line.biz/)
-1. Set your server address to your applications webhook settings.
+1. Set your server address to your applications webhook settings.(If you have a server hosting with a domain name 'unchi.com', your webhook setting would be like 'https://unchi.com/bot.php')
 1. Set your Access Token, Channel ID and Channel Token to "clientinfo.php"
 1. Create some image as 'default.png'. It will show to users as title screen.
 1. Run 'defaultset.php' to set title screen.
