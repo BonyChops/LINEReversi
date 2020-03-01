@@ -1,5 +1,7 @@
 # LINEReversi
 Play reversi with LINE bot using richmenu!
+# Sample
+BonyReversi - https://lin.ee/qJVUJMg
 # Setup
 1. Setup your server which has SSL connection. (https://bonychops.hatenablog.jp/entry/2019/05/18/010836)
 1. Create your application. (https://developers.line.biz/)
@@ -10,3 +12,5 @@ Play reversi with LINE bot using richmenu!
 1. Enjoy!
 # Delete all richmenu
 If you have some trouble with richmenu, you may want to delete all of richmenu... If it so, please run 'deleteall.php'
+# Make it stronger?
+Edit 'reversi.php'.
